@@ -1,3 +1,3 @@
-github "ReSwift/ReSwift" "2.0.0"
-github "ReSwift/ReSwift-Recorder" "0.3.0"
-github "ReSwift/ReSwift-Router" "0.3.0"
+git "https://github.com/juegas/ReSwift.git" "9c94c77f2a42d4a6f2607ba429022b0be4897c63"
+git "https://github.com/juegas/ReSwift-Recorder.git" "f3dcc37298f43621cf89579a7ce0446016104eea"
+git "https://github.com/juegas/ReSwift-Router.git" "c2e663c5844255c2c06fcf5e776cc985d42c8d1b"
